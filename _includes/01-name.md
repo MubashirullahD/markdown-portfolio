@@ -1,1 +1,8 @@
-Replace this with your name, and include a header.
+# BIO
+- Mubashirullah
+
+- CS student
+
+- 22 years old
+
+- Cat lover
